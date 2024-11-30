@@ -42,8 +42,8 @@ I'm a passionate full-stack developer with a strong foundation in data structure
 - Strong problem-solving and algorithmic thinking
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VedantRaval3011&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantRaval3011&layout=compact&theme=radical)
 
 ## 🌱 Always Learning
 I'm continuously expanding my skills and exploring new technologies. Currently diving deeper into advanced Databases and AI.
